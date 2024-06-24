@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(to right, #ffffb566, #fceaff66 ); /* Градиент слева направо от красного к фиолетовому */
+    /* Дополнительные свойства для фона */
+    background-repeat: no-repeat; /* Не повторять градиент */
+    background-attachment: fixed; /* Закрепить градиент при прокрутке */
+    /* Высота страницы, чтобы градиент был виден */
+    min-height: 100vh; 
+  }
